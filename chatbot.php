@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Woo Chatbot
- * Plugin URI:  https://example.com/woo-chatbot
+ * Plugin Name: Chatbot
+ * Plugin URI:  https://github.com/terrykernan/chatbot
  * Description: AI-powered chat widget for woocommerce stores. Provider-agnostic (Claude/OpenAI), fully managed from WordPress admin.
  * Version:     1.0.0
  * Author:      Terry Kernan <terry@terrykernan.co.uk>
